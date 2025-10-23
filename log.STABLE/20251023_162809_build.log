@@ -1,0 +1,11 @@
+Making all in src
+make[1]: Entering directory '/home/itodoro/projects/zopen-mcp-server/xcb-protoport/xcb-proto-1.17.0/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/itodoro/projects/zopen-mcp-server/xcb-protoport/xcb-proto-1.17.0/src'
+Making all in xcbgen
+make[1]: Entering directory '/home/itodoro/projects/zopen-mcp-server/xcb-protoport/xcb-proto-1.17.0/xcbgen'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/itodoro/projects/zopen-mcp-server/xcb-protoport/xcb-proto-1.17.0/xcbgen'
+make[1]: Entering directory '/home/itodoro/projects/zopen-mcp-server/xcb-protoport/xcb-proto-1.17.0'
+make[1]: Nothing to be done for 'all-am'.
+make[1]: Leaving directory '/home/itodoro/projects/zopen-mcp-server/xcb-protoport/xcb-proto-1.17.0'

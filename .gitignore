@@ -1,0 +1,2 @@
+# Ignore source directories created by zopen build
+xcb-proto-*/

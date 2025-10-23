@@ -1,0 +1,27 @@
+trap: ./configure 1657: FSUM7327 signal number 13 not conventional
+checking for a BSD-compatible install... ./install-sh -c
+checking whether build environment is sane... yes
+checking for a race-free mkdir -p... ./install-sh -c -d
+checking for gawk... no
+checking for mawk... no
+checking for nawk... no
+checking for awk... awk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking for xmllint... no
+configure: WARNING: xmllint not found; unable to validate against schema.
+checking for a Python interpreter with version >= 2.5... python
+checking for python... /usr/lpp/IBM/cyp/v3r12/pyz/bin/python
+checking for python version... 3.12
+checking for python platform... zos
+checking for GNU default python prefix... ${prefix}
+checking for GNU default python exec_prefix... ${exec_prefix}
+checking for python script directory (pythondir)... ${PYTHON_PREFIX}/lib/python3.12/site-packages
+checking for python extension module directory (pyexecdir)... ${PYTHON_EXEC_PREFIX}/lib/python3.12/site-packages
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+trap: ./config.status 547: FSUM7327 signal number 13 not conventional
+config.status: creating Makefile
+config.status: creating src/Makefile
+config.status: creating xcbgen/Makefile
+config.status: creating xcb-proto.pc

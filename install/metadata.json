@@ -1,0 +1,75 @@
+{
+  "version_scheme": "0.2",
+  "product": {
+    "name": "xcb",
+    "version": "1.0.0",
+    "release": "20251023_162809",
+    "summary": "xcb on z/OS",
+    "repo": "local",
+    "license": "local/blob/main/patches/LICENSE",
+    "zopen_license": "local/blob/main/LICENSE",
+    "categories": "library development",
+    "buildline": "STABLE",
+    "source_type": "TARBALL",
+    "test_status": {
+      "total_tests": "1",
+      "total_success": "1"
+    },
+    "size": "1473536",
+    "commitsha": "local",
+    "community_commitsha": "71e3b3f8d5eff5f70947cf55bbf9bc04fc4d1f35",
+    "build_dependencies": [
+      {
+        "name": "check_clang",
+        "versionRange": null
+      },
+      {
+        "name": "check_python",
+        "versionRange": null
+      },
+      {
+        "name": "curl",
+        "versionRange": null
+      },
+      {
+        "name": "git",
+        "versionRange": null
+      },
+      {
+        "name": "gzip",
+        "versionRange": null
+      },
+      {
+        "name": "jq",
+        "versionRange": null
+      },
+      {
+        "name": "make",
+        "versionRange": null
+      },
+      {
+        "name": "pkgconfig",
+        "versionRange": null
+      },
+      {
+        "name": "sed",
+        "versionRange": null
+      },
+      {
+        "name": "tar",
+        "versionRange": null
+      },
+      {
+        "name": "zoslib",
+        "versionRange": null
+      }
+    ],
+    "runtime_dependencies": [
+      {
+        "name": "meta",
+        "versionRange": null
+      }
+    ],
+    "system_prereqs": []
+  }
+}
